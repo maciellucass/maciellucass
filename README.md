@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Lucas
 
-<!--
-**maciellucass/maciellucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional focused on learning and building practical experience across different areas of information security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm currently developing my skills in cybersecurity through hands-on labs, projects and continuous study.
+My main goal is to build a solid foundation in both defensive and offensive security.
+
+---
+
+## Skills
+
+- Cybersecurity Fundamentals  
+- Linux / Windows
+- Networking Concepts  
+- Python (learning)  
